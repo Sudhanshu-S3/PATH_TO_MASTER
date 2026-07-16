@@ -1,0 +1,14 @@
+PLAN/
+JOURNAL/
+
+# Compiled binaries / executables
+*.exe
+*.out
+*.o
+*.obj
+*.app
+a.out
+
+# Editor / OS junk
+.vscode/
+.DS_Store
