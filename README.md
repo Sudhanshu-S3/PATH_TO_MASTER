@@ -3,7 +3,7 @@
 A space to keep a grip on the fundamentals in one place. Learning out loud ;)
 
 
-- This covers: Fundamental C++, Advanced C++, low-latency concepts and tools,
+- This covers: C++ Fundamental, Advanced C++, low-latency concepts and tools,
 Data Structures, and Algorithms.
 
 - Notes will include theory, implementations, or small projects when needed, with some good questions.
@@ -19,6 +19,12 @@ interesting or spot an issue, lmk.
 
 - [TODO](TODO.md) -> what's on my plate right now.
 
+### Folders
+
+[dsa](dsa/index.md)
+
+[cppFundamental](cppFundamental/index.md)
+
 
 ### For the hard days 🪖
 
@@ -27,6 +33,7 @@ It's your Snowman Trek:
 - have fun in the process, 
 - stay clear on the why and what you're learning, 
 - dig deep instead of rushing through.
+- build it brick by brick
 
 
 ![Climb](images/mt.jpeg)
