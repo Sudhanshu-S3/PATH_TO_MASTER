@@ -1,3 +1,3 @@
-## Todays Task
+## TODO
 
-- [ ] Add Graph notes to PATH_TO_MASTER
+- [ ] Solve 2 CSES question from DP section
