@@ -40,16 +40,9 @@
 3. USACO Gold : [usaco.guide/gold/intro-dp](https://usaco.guide/gold/intro-dp)
 4. Codeforces problems
 
-#### Practice Log
 
-Solved problems go into [practice/index.md](practice/index.md), logged under the
-same sections used here.
 
-#### NOTE
-
-Splitting dp into sections is not about memorizing patterns. The point is to meet
-each concept from every angle, so the understanding is structured instead of
-scattered, and the clarity carries over to problems that do not match any pattern.
+> Problems go into [practice/index.md](practice/index.md) as I solve them.
 
 #### Rounds
 

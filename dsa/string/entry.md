@@ -91,7 +91,7 @@ Goal: Handle many patterns, or many queries, on the same text.
 
 ## Rounds
 
-Round 1 targets 1900, Round 2 targets 2100. The split is by topic, not section.
+Round 1, Round 2. The split is by topic, not section.
 
 ### Round 1
 
@@ -102,9 +102,6 @@ Round 1 targets 1900, Round 2 targets 2100. The split is by topic, not section.
 - Trie basics (topic 5)
 - Edit distance and LCS (topic 9, covered under dp)
 
-Hashing alone solves a large share of ≤1900 string problems, and it is the
-easiest to get right under time pressure. KMP and Z are the two to actually
-memorize.
 
 ### Round 2
 
@@ -121,7 +118,7 @@ Round 2 is comfortable.
 
 ## Resources
 
-- CSES String Algorithms: https://cses.fi/problemset/
-- cp-algorithms strings: https://cp-algorithms.com/string/prefix-function.html
+- CSES String Algorithms: [https://cses.fi/problemset/task/1731](https://cses.fi/problemset/task/1731)
+- cp-algorithms strings: [https://cp-algorithms.com/string/prefix-function.html](https://cp-algorithms.com/string/prefix-function.html)
 
 > NOTE: I will add topic-wise good questions as I solve them in [practice/index.md](practice/index.md) .
